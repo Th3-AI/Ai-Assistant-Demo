@@ -31,6 +31,6 @@ This Voice Assistant application:
 
 Run the application:
 ```bash
-python <your-script-name>.py
+python ai.py
 ```
 Speak commands into the microphone. Use "exit" or "quit" to stop.
