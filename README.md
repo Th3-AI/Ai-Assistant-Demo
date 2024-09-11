@@ -23,7 +23,7 @@ This Voice Assistant application:
    ```
 2. Install dependencies:
    ```bash
-   pip install speech_recognition pyttsx3 dynaspark
+   pip install SpeechRecognition pyttsx3 markdown dynaspark setuptools pyaudio
    ```
 3. Set up your DynaSpark API key in the script.
 
